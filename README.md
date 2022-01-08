@@ -15,6 +15,10 @@ App will enable user to view news details, images, and video.</br>
 </kbd>
 *** ***
 <kbd>
+<img src="./ReadmePictures/pic6.png" width="50%"/></hr>
+</kbd>
+*** ***
+<kbd>
 <img src="./ReadmePictures/pic4.png" width="50%"/></hr>
 </kbd>
 *** ***
