@@ -37,9 +37,8 @@ App will enable user to view news details, images, and video.</br>
 <kbd>
 <img src="./ReadmePictures/pic5.png" width="50%"/>
   </kbd>
-  
 </br>
-
+</br>
 ## IMAGES SMALL DEVICES
 <kbd>
 <img src="./ReadmePictures/pic6.png" width="50%"/></hr>
