@@ -12,9 +12,7 @@ import {
 
 
 function App() {
-  const toggleMode = () => {
-    console.log("TOGGLE MODE");
-  }
+  
   return (
     <Router>
       <div className="App">
