@@ -9,3 +9,6 @@ App will enable user to view news details, images, and video.</br>
 ***API USED:*** NEWSAPI </br>
 ***TECHNOLOGIES USED:*** HTML , CSS , VANILLA JAVASCRIPT, REACTJS(JS LIBRARY), BOOTSTRAP(CSS FRAMEWORK). 
 
+## IMAGES
+
+
