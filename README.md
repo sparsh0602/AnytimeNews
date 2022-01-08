@@ -4,6 +4,7 @@
 The purpose of the project is to develop a ***real-time responsive*** application which will display **news articles***.</br>
 User can browse news articles through various ***categories***.</br>
 App will enable user to view news details, images, and video.</br>
+**THEMES**: DARK / LIGHT
 </br>
 
 ## TECHNICAL
@@ -39,6 +40,7 @@ App will enable user to view news details, images, and video.</br>
   </kbd>
 </br>
 </br>
+
 ## IMAGES SMALL DEVICES
 <kbd>
 <img src="./ReadmePictures/pic6.png" width="50%"/></hr>
