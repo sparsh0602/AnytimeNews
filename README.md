@@ -11,3 +11,4 @@ App will enable user to view news details, images, and video.</br>
 
 ## IMAGES
 <img src="./ReadmePictures/pic1.png" width="50%"/>
+<img src="./ReadmePictures/pic2.png" width="50%"/>
