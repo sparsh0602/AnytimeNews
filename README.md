@@ -10,4 +10,4 @@ App will enable user to view news details, images, and video.</br>
 ***TECHNOLOGIES USED:*** HTML , CSS , VANILLA JAVASCRIPT, REACTJS(JS LIBRARY), BOOTSTRAP(CSS FRAMEWORK). 
 
 ## IMAGES
-<img src="./ReadmePictures/pic1.png" width="25vw"/>
+<img src="./ReadmePictures/pic1.png" width="25%"/>
