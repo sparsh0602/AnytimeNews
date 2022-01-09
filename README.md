@@ -1,5 +1,12 @@
 # AnytimeNews
 
+## FLOW OF README FILE
+*Overview of project </br>
+*Technical </br>
+*Images</br>
+*Small device Images</br>
+*About Code</br>
+
 ## OVERVIEW
 *The purpose of the project is to develop a ***real-time responsive*** application which will display **news articles***.</br>
 *User can browse news articles through various ***categories***.</br>
