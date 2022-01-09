@@ -5,7 +5,7 @@
 *Technical </br>
 *Images</br>
 *Small device Images</br>
-*About Code</br>
+
 
 ## OVERVIEW
 *The purpose of the project is to develop a ***real-time responsive*** application which will display **news articles***.</br>
@@ -65,4 +65,6 @@
 <kbd>
 <img src="./ReadmePictures/pic8.png" width="50%"/></hr>
 </kbd>
+</br>
+ 
 
