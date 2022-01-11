@@ -1,6 +1,6 @@
 # AnytimeNews
 
-<h3>FLOW OF README FILE</h3></br>
+<h2 style="color:purple">FLOW OF README FILE</h2></br>
 *Overview of project </br>
 *Technical </br>
 *Images</br>
