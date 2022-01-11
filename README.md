@@ -68,29 +68,38 @@
 </kbd>
 </br>
 
-##FLOW OF CODE
+
+## FLOW OF CODE
 
 **ReadmePictures**</br>
 Contains screenShots of application in Computer and Small devices.</br>
+</br>
 
 **./src/app.js**</br>
-All components are compiled.</br>
+All components are put together.</br>
+Default image url is also given,if image url is null.</br> 
+</br>
 
 **./src/app.css**</br>
 All external css of the code.</br>
+</br>
 
 **./src/components**</br>
 Contains all the components of the code such as navbar etc.</br>
+</br>
 
 **./src/components/NavBar.js**</br>
 Returns Navbar code of the code.</br>
+</br>
 
 **./src/components/NewsCard.js**</br>
 URL is url of API.</br>
 Returns NewsCard with title limit of 50 characters & description limit of 90 characters.</br>
+</br>
 
  **./src/components/Loading.js**</br>
  Conatins Loading animation gif.</br>
+ </br>
 
 
  
