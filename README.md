@@ -5,6 +5,7 @@
 *Technical </br>
 *Images</br>
 *Small device Images</br>
+*Flow of Code</br>
 
 
 ## OVERVIEW
@@ -66,5 +67,31 @@
 <img src="./ReadmePictures/pic8.png" width="50%"/></hr>
 </kbd>
 </br>
+
+##FLOW OF CODE
+
+**ReadmePictures**</br>
+Contains screenShots of application in Computer and Small devices.</br>
+
+**./src/app.js**</br>
+All components are compiled.</br>
+
+**./src/app.css**</br>
+All external css of the code.</br>
+
+**./src/components**</br>
+Contains all the components of the code such as navbar etc.</br>
+
+**./src/components/NavBar.js**</br>
+Returns Navbar code of the code.</br>
+
+**./src/components/NewsCard.js**</br>
+URL is url of API.</br>
+Returns NewsCard with title limit of 50 characters & description limit of 90 characters.</br>
+
+ **./src/components/Loading.js**</br>
+ Conatins Loading animation gif.</br>
+
+
  
 
