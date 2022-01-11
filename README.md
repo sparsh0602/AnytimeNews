@@ -1,6 +1,6 @@
 # AnytimeNews
 
-## FLOW OF README FILE
+<h1>FLOW OF README FILE</h1></br>
 *Overview of project </br>
 *Technical </br>
 *Images</br>
