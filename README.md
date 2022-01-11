@@ -95,6 +95,7 @@ Returns Navbar code of the code.</br>
 **./src/components/NewsCard.js**</br>
 URL is url of API.</br>
 Returns NewsCard with title limit of 50 characters & description limit of 90 characters.</br>
+Also returns other components of page like previous/next page button if available.</br>
 </br>
 
  **./src/components/Loading.js**</br>
