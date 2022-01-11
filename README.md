@@ -21,8 +21,8 @@
 ***TECHNOLOGIES USED:*** HTML</br> 
 &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &nbsp; CSS </br> 
 &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &nbsp; VANILLA JAVASCRIPT </br>
-&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &nbsp; REACTJS(JS LIBRARY) </br>
-&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &nbsp; BOOTSTRAP(CSS FRAMEWORK)
+&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &nbsp; REACTJS (JS LIBRARY) </br>
+&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &nbsp; BOOTSTRAP (CSS FRAMEWORK)
 </br>
 
 ## IMAGES
