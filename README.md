@@ -63,13 +63,13 @@ NEWSAPI </br>
 *** ***
  **PIXEL 5**</br></br>
 <kbd>
-<img src="./ReadmePictures/smallPic7.png" width="50%"/></hr>
+<img src="./ReadmePictures/smallPic7.png" width="50%" height="40%"/></hr>
 </kbd>
 
 *** ***
  **IPHONE SE**</br></br>
 <kbd>
-<img src="./ReadmePictures/smallPic8.png" width="50%"/></hr>
+<img src="./ReadmePictures/smallPic8.png" width="50%" height="40%"/></hr>
 </kbd>
 </br>
 
