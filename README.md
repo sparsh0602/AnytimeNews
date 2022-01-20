@@ -55,14 +55,15 @@ NEWSAPI </br>
 </br>
 
 ## IMAGES SMALL DEVICES
- ***SAMSUNG DUO***</br>
+ **SAMSUNG DUO**</br></br>
 <kbd> 
 <img src="./ReadmePictures/smallPic6.png" width="50%"/></hr>
 </kbd>
 
 *** ***
+ **PIXEL 5**</br></br>
 <kbd>
-<img src="./ReadmePictures/pic7.png" width="50%"/></hr>
+<img src="./ReadmePictures/smallPic7.png" width="50%"/></hr>
 </kbd>
 
 *** ***
