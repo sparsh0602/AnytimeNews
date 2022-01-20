@@ -67,8 +67,9 @@ NEWSAPI </br>
 </kbd>
 
 *** ***
+ **IPHONE SE**</br></br>
 <kbd>
-<img src="./ReadmePictures/pic8.png" width="50%"/></hr>
+<img src="./ReadmePictures/smallPic8.png" width="50%"/></hr>
 </kbd>
 </br>
 
