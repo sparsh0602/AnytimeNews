@@ -57,19 +57,19 @@ NEWSAPI </br>
 ## IMAGES SMALL DEVICES
  **SAMSUNG DUO**</br></br>
 <kbd> 
-<img src="./ReadmePictures/smallPic6.png" width="50%" height="40%"/></hr>
+<img src="./ReadmePictures/smallPic6.png" width="40%" height="20%"/></hr>
 </kbd>
 
 *** ***
  **PIXEL 5**</br></br>
 <kbd>
-<img src="./ReadmePictures/smallPic7.png" width="50%" height="40%"/></hr>
+<img src="./ReadmePictures/smallPic7.png" width="40%" height="20%"/></hr>
 </kbd>
 
 *** ***
  **IPHONE SE**</br></br>
 <kbd>
-<img src="./ReadmePictures/smallPic8.png" width="50%" height="40%"/></hr>
+<img src="./ReadmePictures/smallPic8.png" width="40%" height="20%"/></hr>
 </kbd>
 </br>
 
