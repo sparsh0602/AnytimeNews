@@ -29,7 +29,7 @@ NEWSAPI </br>
 
 ## IMAGES
 <kbd>
-<img src="./ReadmePictures/pic1.png" width="60%" style="margin:auto;"/></hr>
+<img src="./ReadmePictures/pic1.png" width="60%"/></hr>
 </kbd>
 
 *** ***
@@ -49,7 +49,7 @@ NEWSAPI </br>
   
   *** ***
 <kbd>
-<img src="./ReadmePictures/pic5.png" width="50%"/>
+<img src="./ReadmePictures/pic5.png" width="60%"/>
   </kbd>
 </br>
 </br>
@@ -57,7 +57,7 @@ NEWSAPI </br>
 ## IMAGES SMALL DEVICES
  **SAMSUNG DUO**</br></br>
 <kbd> 
-<img src="./ReadmePictures/smallPic6.png" width="40%" height="20%"/></hr>
+<img src="./ReadmePictures/smallPic6.png" width="70%" /></hr>
 </kbd>
 
 *** ***
