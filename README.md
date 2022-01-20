@@ -7,15 +7,6 @@
 *Small device Images</br>
 *Flow of Code</br>
 
-<style>
-kbd {
-  
-  margin: auto;
-  
-}
-</style>
-
-
 ## OVERVIEW
 *The purpose of the project is to develop a ***real-time responsive*** application which will display **news articles***.</br>
 *User can browse news articles through various ***categories***.</br>
