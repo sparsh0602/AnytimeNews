@@ -16,13 +16,15 @@
 </br>
 
 ## TECHNICAL
-***API USED:*** NEWSAPI </br>
+***API USED:***</br>
+NEWSAPI </br>
 
-***TECHNOLOGIES USED:*** HTML</br> 
-&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &nbsp; CSS </br> 
-&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &nbsp; VANILLA JAVASCRIPT </br>
-&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &nbsp; REACTJS (JS LIBRARY) </br>
-&emsp; &emsp; &emsp; &emsp; &emsp;  &emsp;  &emsp;  &emsp; &nbsp; BOOTSTRAP (CSS FRAMEWORK)
+***TECHNOLOGIES USED:***</br>
+ HTML</br> 
+ CSS </br> 
+ VANILLA JAVASCRIPT </br>
+ REACTJS (JS LIBRARY) </br>
+ BOOTSTRAP (CSS FRAMEWORK)
 </br>
 
 ## IMAGES
