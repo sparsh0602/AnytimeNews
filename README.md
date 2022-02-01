@@ -27,7 +27,7 @@ NEWSAPI </br>
 </br>
 
 ## IMAGES
-<div style="text-align:center">
+<div align="center">
 <img src="./ReadmePictures/pic1.png" width="70%"/></hr>
 </div>
 
