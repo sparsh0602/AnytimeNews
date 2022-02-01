@@ -62,10 +62,10 @@ NEWSAPI </br>
 *** ***
  **PIXEL 5**</br></br>
 <p>
-<img src="./ReadmePictures/pic2.1.png" width="45%"/></hr>
-
-<img src="./ReadmePictures/pic2.2.png" width="45%"/></hr>
+<img src="./ReadmePictures/pic2.1.png" width="45%" /></hr>
+<img src="./ReadmePictures/pic2.2.png" width="45%" /></hr>
 </p>
+</br>
 
 *** ***
  **IPHONE SE**</br></br>
