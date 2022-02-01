@@ -61,15 +61,17 @@ NEWSAPI </br>
 
 *** ***
  **PIXEL 5**</br></br>
-<kbd>
-<img src="./ReadmePictures/smallPic7.png" width="55%"/></hr>
-</kbd>
+<p>
+<img src="./ReadmePictures/pic2.1.png" width="45%"/></hr>
+
+<img src="./ReadmePictures/pic2.2.png" width="45%"/></hr>
+</p>
 
 *** ***
  **IPHONE SE**</br></br>
 <p>
-<img src="./ReadmePictures/smallPic10.png" width="45%" /></hr>
-<img src="./ReadmePictures/smallPic9.png" width="45%" /></hr>
+<img src="./ReadmePictures/pic1.1.png" width="45%" /></hr>
+<img src="./ReadmePictures/pic1.2.png" width="45%" /></hr>
 </p>
 </br>
 
