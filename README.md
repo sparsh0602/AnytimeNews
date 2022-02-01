@@ -32,22 +32,22 @@ NEWSAPI </br>
 </div>
 
 *** ***
-<kbd style="text-align:center">
+<kbd align="center">
 <img src="./ReadmePictures/pic2.png" width="70%"/></hr>
 </kbd>
 
 *** ***
-<div style="text-align:center">
+<div align="center">
 <img src="./ReadmePictures/pic3.png" width="70%"/>
   </div>
   
   *** ***
-<div style="text-align:center">
+<div align="center"">
 <img src="./ReadmePictures/pic4.png" width="70%"/>
   </div>
   
   *** ***
-<div style="text-align:center">
+<div align="center">
 <img src="./ReadmePictures/pic5.png" width="70%"/>
   </div>
 </br>
