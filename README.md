@@ -68,8 +68,8 @@ NEWSAPI </br>
 *** ***
  **IPHONE SE**</br></br>
 <p>
-<img src="./ReadmePictures/smallPic10.png" width="55%" /></hr>
-<img src="./ReadmePictures/smallPic9.png" width="55%" /></hr>
+<img src="./ReadmePictures/smallPic10.png" width="45%" /></hr>
+<img src="./ReadmePictures/smallPic9.png" width="45%" /></hr>
 </p>
 </br>
 
