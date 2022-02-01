@@ -11,6 +11,7 @@
 *The purpose of the project is to develop a ***real-time responsive*** application which will display **news articles***.</br>
 *User can browse news articles through various ***categories***.</br>
 *App will enable user to view news details, images, and videos.</br>
+</br>
 ***THEMES**: DARK / LIGHT
 </br>
 
