@@ -28,27 +28,27 @@ NEWSAPI </br>
 
 ## IMAGES
 <kbd>
-<img src="./ReadmePictures/pic1.png" width="60%"/></hr>
+<img src="./ReadmePictures/pic1.png" width="70%"/></hr>
 </kbd>
 
 *** ***
 <kbd>
-<img src="./ReadmePictures/pic2.png" width="60%"/></hr>
+<img src="./ReadmePictures/pic2.png" width="70%"/></hr>
 </kbd>
 
 *** ***
 <kbd>
-<img src="./ReadmePictures/pic3.png" width="60%"/>
+<img src="./ReadmePictures/pic3.png" width="70%"/>
   </kbd>
   
   *** ***
 <kbd>
-<img src="./ReadmePictures/pic4.png" width="60%"/>
+<img src="./ReadmePictures/pic4.png" width="70%"/>
   </kbd>
   
   *** ***
 <kbd>
-<img src="./ReadmePictures/pic5.png" width="60%"/>
+<img src="./ReadmePictures/pic5.png" width="70%"/>
   </kbd>
 </br>
 </br>
