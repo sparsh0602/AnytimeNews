@@ -72,6 +72,11 @@ NEWSAPI </br>
 <img src="./ReadmePictures/smallPic9.png" width="55%" /></hr>
 </kbd>
 </br>
+<p align="center">
+  <img alt="Light" src="./ReadmePictures/smallPic10.png" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="=./ReadmePictures/smallPic9.png" width="45%">
+</p>
 
 
 ## FLOW OF CODE
