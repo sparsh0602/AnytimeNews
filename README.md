@@ -27,9 +27,9 @@ NEWSAPI </br>
 </br>
 
 ## IMAGES
-<kbd style="text-align:center">
+<div style="text-align:center">
 <img src="./ReadmePictures/pic1.png" width="70%"/></hr>
-</kbd>
+</div>
 
 *** ***
 <kbd style="text-align:center">
@@ -37,19 +37,19 @@ NEWSAPI </br>
 </kbd>
 
 *** ***
-<kbd style="text-align:center">
+<div style="text-align:center">
 <img src="./ReadmePictures/pic3.png" width="70%"/>
-  </kbd>
+  </div>
   
   *** ***
-<kbd style="text-align:center">
+<div style="text-align:center">
 <img src="./ReadmePictures/pic4.png" width="70%"/>
-  </kbd>
+  </div>
   
   *** ***
-<kbd style="text-align:center">
+<div style="text-align:center">
 <img src="./ReadmePictures/pic5.png" width="70%"/>
-  </kbd>
+  </div>
 </br>
 </br>
 
